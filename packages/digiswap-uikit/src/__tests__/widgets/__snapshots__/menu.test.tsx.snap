@@ -1788,7 +1788,7 @@ exports[`renders correctly 1`] = `
           <a
             class="c25"
             href="
-https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+https://dex.digiswap.finance/swap?outputCurrency=0x3239B54FaC4f858023AAf80b40C694B9e432CcB4"
             target="_blank"
           >
             <svg
@@ -3090,7 +3090,7 @@ https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13
                   <a
                     class="c25"
                     href="
-https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+https://dex.digiswap.finance/swap?outputCurrency=0x3239B54FaC4f858023AAf80b40C694B9e432CcB4"
                     target="_blank"
                   >
                     <svg
@@ -3246,7 +3246,7 @@ https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13
                 <a
                   class="c87"
                   href="
-https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+https://dex.digiswap.finance/swap?outputCurrency=0x3239B54FaC4f858023AAf80b40C694B9e432CcB4"
                   scale="sm"
                   target="_blank"
                 >
