@@ -7,27 +7,19 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "https://docs.pancakeswap.finance/contact-us",
+        href: "https://docs.digiswap.finance/contact-us",
       },
       {
         label: "Blog",
-        href: "https://pancakeswap.medium.com/",
+        href: "https://digiswap.medium.com/",
       },
       {
         label: "Community",
-        href: "https://docs.pancakeswap.finance/contact-us/telegram",
+        href: "https://docs.digiswap.finance/contact-us/telegram",
       },
       {
-        label: "CAKE",
-        href: "https://docs.pancakeswap.finance/tokenomics/cake",
-      },
-      {
-        label: "—",
-      },
-      {
-        label: "Online Store",
-        href: "https://pancakeswap.creator-spring.com/",
-        isHighlighted: true,
+        label: "DIGIS",
+        href: "https://docs.digiswap.finance/tokenomics/digis",
       },
     ],
   },
@@ -36,15 +28,19 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: "Support https://docs.pancakeswap.finance/contact-us/customer-support",
+        href: "Support https://docs.digiswap.finance/contact-us/customer-support",
       },
       {
         label: "Troubleshooting",
-        href: "https://docs.pancakeswap.finance/help/troubleshooting",
+        href: "https://docs.digiswap.finance/help/troubleshooting",
       },
       {
         label: "Guides",
-        href: "https://docs.pancakeswap.finance/get-started",
+        href: "https://docs.digiswap.finance/get-started",
+      },
+	  {
+        label: "Github",
+        href: "https://github.com/DigiSwap-Core",
       },
     ],
   },
@@ -52,24 +48,20 @@ export const footerLinks: FooterLinkType[] = [
     label: "Developers",
     items: [
       {
-        label: "Github",
-        href: "https://github.com/pancakeswap",
-      },
-      {
         label: "Documentation",
-        href: "https://docs.pancakeswap.finance",
+        href: "https://docs.digiswap.finance",
       },
       {
         label: "Bug Bounty",
-        href: "https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/code/bug-bounty",
+        href: "https://docs.digiswap.finance/code/bug-bounty",
       },
       {
         label: "Audits",
-        href: "https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
+        href: "https://docs.digiswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
       },
       {
         label: "Careers",
-        href: "https://docs.pancakeswap.finance/hiring/become-a-chef",
+        href: "https://docs.digiswap.finance/hiring/become-a-crew",
       },
     ],
   },
@@ -79,80 +71,27 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://twitter.com/pancakeswap",
+    href: "https://twitter.com/DigiSwap_Official",
   },
   {
     label: "Telegram",
     icon: "Telegram",
-    items: [
-      {
-        label: "English",
-        href: "https://t.me/pancakeswap",
-      },
-      {
-        label: "Bahasa Indonesia",
-        href: "https://t.me/PancakeSwapIndonesia",
-      },
-      {
-        label: "中文",
-        href: "https://t.me/PancakeSwap_CN",
-      },
-      {
-        label: "Tiếng Việt",
-        href: "https://t.me/PancakeSwapVN",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/pancakeswap_ita",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/pancakeswap_ru",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/pancakeswapturkiye",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/PancakeSwapPortuguese",
-      },
-      {
-        label: "Español",
-        href: "https://t.me/PancakeswapEs",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/pancakeswapjp",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/pancakeswapfr",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/PancakeSwapAnn",
-      },
-      {
-        label: "Whale Alert",
-        href: "https://t.me/PancakeSwapWhales",
-      },
-    ],
+	href: "https://t.me/DigiSwap_Official",
   },
   {
     label: "Reddit",
     icon: "Reddit",
-    href: "https://reddit.com/r/pancakeswap",
+    href: "https://reddit.com/r/DigiSwap_Official",
   },
   {
     label: "Instagram",
     icon: "Instagram",
-    href: "https://instagram.com/pancakeswap_official",
+    href: "https://instagram.com/DigiSwap_Official",
   },
   {
     label: "Github",
     icon: "Github",
-    href: "https://github.com/pancakeswap/",
+    href: "https://github.com/DigiSwap-Core/",
   },
 ];
 
