@@ -31,7 +31,7 @@ https://dex.digiswap.finance/swap?outputCurrency=0x3239B54FaC4f858023AAf80b40C69
       target="_blank"
     >
       <PancakeRoundIcon width="24px" mr="8px" />
-      <Text color={color} bold>{`$${cakePriceUsd.toFixed(3)}`}</Text>
+      <Text color={color} bold>{`$${cakePriceUsd.toFixed(6)}`}</Text>
     </PriceLink>
   ) : (
     <Skeleton width={80} height={24} />
