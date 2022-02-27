@@ -122,7 +122,7 @@ const Menu: React.FC<NavProps> = ({
               langs={langs}
               setLang={setLang}
               buttonScale="xs"
-              color="textSubtle"
+              color="primaryAltButton"
               hideLanguage
             />
           </Box>

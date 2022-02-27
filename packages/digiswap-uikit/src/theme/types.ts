@@ -56,13 +56,20 @@ export type Colors = {
   input: string;
   inputSecondary: string;
   background: string;
+  backgroundPrimary: string; 
+  backgroundSecondary: string;
   backgroundDisabled: string;
   backgroundAlt: string;
   backgroundAlt2: string;
   text: string;
+  textPrimary:  string;
+  textSecondary: string;
   textDisabled: string;
   textSubtle: string;
   disabled: string;
+  primaryButton: string;
+  primaryAltButton: string;
+  tertiaryAlt: string;
 
   // Gradients
   gradients: Gradients;

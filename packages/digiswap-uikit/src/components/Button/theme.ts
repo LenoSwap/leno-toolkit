@@ -19,7 +19,7 @@ export const scaleVariants = {
 export const styleVariants = {
   [variants.PRIMARY]: {
     backgroundColor: "primary",
-    color: "white",
+    color: "black",
   },
   [variants.SECONDARY]: {
     backgroundColor: "transparent",
@@ -37,7 +37,7 @@ export const styleVariants = {
     color: "primary",
   },
   [variants.SUBTLE]: {
-    backgroundColor: "textSubtle",
+    backgroundColor: "primaryAltButton",
     color: "backgroundAlt",
   },
   [variants.DANGER]: {

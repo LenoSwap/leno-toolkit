@@ -76,7 +76,16 @@ export const socials = [
   {
     label: "Telegram",
     icon: "Telegram",
-	href: "https://t.me/DigiSwap_Official",
+    items: [
+      {
+        label: "English",
+        href: "https://t.me/DigiSwap_Official",
+      },
+      {
+        label: "Indonesia",
+        href: "https://t.me/DigiSwap_Indonesia",
+      },
+    ]
   },
   {
     label: "Reddit",
