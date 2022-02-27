@@ -1,12 +1,12 @@
 {
-  "name": "@pancakeswap/eslint-config-pancake",
+  "name": "@digiswap-core/eslint-config-digiswap",
   "version": "1.2.0",
-  "description": "Eslint config for PancakeSwap",
+  "description": "Eslint config for DigiSwap",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake",
+  "repository": "https://github.com/DigiSwap-Core/digiswap-toolkit/tree/master/packages/eslint-config-digiswap",
   "license": "MIT",
   "author": "RabbitDoge",
   "private": false,
