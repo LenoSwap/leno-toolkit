@@ -1,6 +1,6 @@
 {
   "name": "@digiswap-core/uikit",
-  "version": "0.57.4",
+  "version": "0.57.5",
   "description": "Set of UI components for digiswap projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",

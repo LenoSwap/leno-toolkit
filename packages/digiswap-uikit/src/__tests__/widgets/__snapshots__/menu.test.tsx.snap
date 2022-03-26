@@ -1787,7 +1787,7 @@ exports[`renders correctly 1`] = `
         >
           <a
             class="c25"
-            href="/swap?outputCurrency=0xE4BFd6f0984110395aD59Ee4e2270b17972Fae4A"
+            href="/swap?outputCurrency=0x0Ff81F18bCb9519ac6027c732D196945CA4D2a9A"
             target="_blank"
           >
             <svg
@@ -3088,7 +3088,7 @@ exports[`renders correctly 1`] = `
                 >
                   <a
                     class="c25"
-                    href="/swap?outputCurrency=0xE4BFd6f0984110395aD59Ee4e2270b17972Fae4A"
+                    href="/swap?outputCurrency=0x0Ff81F18bCb9519ac6027c732D196945CA4D2a9A"
                     target="_blank"
                   >
                     <svg
@@ -3243,7 +3243,7 @@ exports[`renders correctly 1`] = `
                 </div>
                 <a
                   class="c87"
-                  href="/swap?outputCurrency=0xE4BFd6f0984110395aD59Ee4e2270b17972Fae4A"
+                  href="/swap?outputCurrency=0x0Ff81F18bCb9519ac6027c732D196945CA4D2a9A"
                   scale="sm"
                   target="_blank"
                 >
