@@ -1,4 +1,4 @@
-# eslint-config-pancake
+# eslint-config-lenoswap
 
 Pancake Eslint config with:
 
@@ -9,7 +9,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @pancakeswap/eslint-config-pancake
+npx install-peerdeps --dev @lenoswap/eslint-config-lenoswap
 ```
 
-Add `"extends": "@pancakeswap/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "@lenoswap/eslint-config-lenoswap"` to your eslint config file.
